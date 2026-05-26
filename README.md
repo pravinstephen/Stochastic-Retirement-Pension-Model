@@ -17,6 +17,6 @@ The underlying model (`Stochastic Retirement Modeling Engine.xlsx`) consists of 
 * **Risk Quantification:** Aggregated Monte Carlo endpoints to output Value-at-Risk (VaR) and determine the exact statistical "Probability of Ruin" (the likelihood of outliving retirement savings).
 
 ## How to Use the Model
-1. CDuplicate or download this repository.
+1. Duplicate or download this repository.
 2. Open `Stochastic Retirement Modeling Engine.xlsx` in desktop Microsoft Excel (ensure iterative calculations are enabled if prompted).
 3. Modify the parameters in the `Inputs` tab to observe how the overall probability of ruin and pension longevity shift in real-time.
